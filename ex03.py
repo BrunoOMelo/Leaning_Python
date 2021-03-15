@@ -1,4 +1,4 @@
-#declaring and formatting multiples variables as integer
+#declaring and formatting multples variables as integer
 num01= int(input('Type the first number: '))
 num02= int(input('Type the second number: '))
 #showing to user the sum of numbers
